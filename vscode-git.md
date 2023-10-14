@@ -23,9 +23,12 @@
 4. Commit your changes
     - In VSCode, click on the "Source Control" icon on the left-hand side of the window
     - You should see the file you just created in the "Changes" section of the "Source Control" panel
+    - ![New File](images/new-file.png)
     - Click on the "+" icon next to the file to stage the changes
+    - ![Stage Changes](images/stage-changes.png)
     - Enter a commit message in the text box at the top of the "Source Control" panel and press "Ctrl+Enter" to commit the changes
     - Click on the "..." icon in the "Source Control" panel and select "Push" to push your changes to github
+    - ![Push Changes](images/push-changes.png)
 5. View your changes on github
     - Go to your repository on github.com
     - You should now see your changes on github
