@@ -1,5 +1,7 @@
 # Git and Github Tutorial
 
+This tutorial exists in a GitHub repository, so you can make changes to it and submit a pull request to have your changes merged into the main repository. This is a great way to practice using git and github!
+
 ## Table of Contents
 - [Git and Github Tutorial](#git-and-github-tutorial)
   - [Table of Contents](#table-of-contents)
@@ -81,4 +83,3 @@ These are the basic git commands you will need to know to use git when working o
     - Run the command `git add .` to add all files in the current directory to the staging area
     - Run the command `git commit -m "Added HelloWorld.txt"` to commit the files in the staging area
     - Run the command `git push` to push your commits to github
-    - You should now see your changes on github
